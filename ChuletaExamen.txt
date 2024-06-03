@@ -1,0 +1,54 @@
+
+	TEMA 1
+	- Funcion Error
+	- Calculo de raiz cuadrada babilonico
+	- Ea y Er
+	- Cifras correctas
+	- Teorema de Taylor (?)
+	- Error propagado (+ - * /) (1 y +1 variables)
+
+	- Coma flotante + Valores reservados
+	- El conjunto F(beta, t, L, U)
+	- Estabilidad Numérica + Número de condición
+	- Regla de Horner
+	- Problemas con números muy dispares
+
+    ==========================================================
+	TEMA 2
+	- Producto escalar vectorial
+	- Norma vectorial 1,2,p,inf
+	- Teoremas [det(A*B) = det(A)*det(B)] y [det(tringular) = prod(diagElems)]
+	- Norma matricial 1,2,p,inf, Frobenius, max
+	- Transformaciones ortogonales
+	- Radio espectral, número de condicion
+	
+	- Regla de Cramer: x = det(Ax) / det(A)
+	- Método de Gauss + Gauss-Jordan
+		- Pivotamiento
+	- Vector residuo y error
+	- Descomposiciones de matrices
+		- Fact LU
+		- Fact QR
+		- HouseHolder
+		- Givens
+	- Mínimos cuadrados
+
+	- Métodos iterativos estacionarios
+		- Jacobi	      
+		- Gauss-Seidel	
+		- SOR		
+		- Precondicionamiento
+	- Métodos iterativos no estacionarios
+		- Gradiente conjugado
+	
+	- Autovalores y Autovectores
+		- Espectro
+		- Radio espectral
+		- Polin. Caracter.
+	- Matrices semejantes
+		- Factorizacion de Schur
+	- Método de las potencias
+	- Cociente de Rayleigh
+	- Algoritmo QR
+	- Valores singulares + SVD
+	- Moore penrose (?)

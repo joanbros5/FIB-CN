@@ -1,0 +1,59 @@
+---Interpolación---
+
+Polinomio interpolador
+Matriz de Vandermonde
+Teorema de interpolacion polinomica
+Fórmula de Lagrange
+Método de Newton
+Fenómeno de Runge
+Chevysheb
+Mínimos cuadrados + curvas paramétricas
+
+---Ajuste trigonométrico---
+
+Splines (lineal, cúbica...)
+Curvas paramétricas y de Bézier
+Fourier (PUTA DESCOMPOSICIÓN DE SIN Y COS) y sus transformadas
+Calcular de DFT (cosas de ξ)
+
+---Ecuaciones no Lineales---
+
+Nomenclatura
+Teoremas de Bolzano + Rolle
+Método de resolución por bisección
+Método de Regula Falsi
+Método de Newton-Raphson.
+Método de la secante.
+Método del punto fijo.
+Estimación de error
+Convergencia
+Steffensen
+
+---Derivadas---
+
+Fórmula forward de la derivada + error (por que)
+Otras fórmulas (forward, backward, centrada)
+Taylor
+Derivadas parciales
+Richardson
+FFT
+
+---Integrales---
+
+Método/Fórmula
+Newton-Côtes y sus fórmulas
+Regla del trapecio
+Simpson y Boole
+Métodos recursivos (Trapecio recursiva) (Simpson recursiva) (Boole recursiva)
+Método de Romberg
+Int. adaptativa
+Montecarlo
+Int. Gaussiana
+
+---Eq Diferenciales---
+
+Orden + EDOs
+Métodos (Taylor) (Runge-kutta) (lineales multipaso)
+Discretización
+Aprox. numérica
+Método Euler explícito / implícito + Estabilidad
